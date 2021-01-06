@@ -25,7 +25,7 @@
   "homepage": "https://github.com/Implausibility/po-reservation-box#readme",
   "dependencies": {
     "@reduxjs/toolkit": "^1.3.6",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "core-js": "^3.6.5",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
